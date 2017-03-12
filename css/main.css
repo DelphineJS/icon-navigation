@@ -26,10 +26,23 @@ li {
 h1 {
   color: #fff;
 }
+
+a:hover {
+  background-color: #fff;
+}
  @media only screen and (min-width: 60em) {
 
    li {
     float: right;
    }
+
+  .nav {
+    vertical-align: middle;
+    text-align: right;
+  }
+
+  .logo {
+    text-align: left;
+  }
 
  }
