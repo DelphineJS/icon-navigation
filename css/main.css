@@ -30,11 +30,12 @@ h1 {
 a:hover {
   background-color: #fff;
 }
- @media only screen and (min-width: 60em) {
 
-   li {
+@media only screen and (min-width: 60em) {
+
+  li {
     float: right;
-   }
+  }
 
   .nav {
     vertical-align: middle;
@@ -45,4 +46,4 @@ a:hover {
     text-align: left;
   }
 
- }
+}
